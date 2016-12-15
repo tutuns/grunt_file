@@ -1,0 +1,24 @@
+{
+  "name": "grunt_file",
+  "version": "1.0.0",
+  "description": "no description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutuns/grunt_file.git"
+  },
+  "author": "tutun shikari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tutuns/grunt_file/issues"
+  },
+  "homepage": "https://github.com/tutuns/grunt_file#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "jshint-stylish": "^2.2.1"
+  }
+}
