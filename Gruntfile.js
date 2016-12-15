@@ -3,6 +3,7 @@ module.exports = function(grunt) {
   // Project configuration
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
+    //connect
 
     //jshint
     jshint : {
@@ -81,6 +82,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-watch');
 
   // Default task(s).
-  grunt.registerTask('default', ['jshint', 'concat', 'watch']); //'sass',
+  grunt.registerTask('default', ['jshint', 'concat', 'watch']); //'sass' should goes in 3rd position,
 
 }
