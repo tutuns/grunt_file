@@ -26,3 +26,8 @@
     "grunt": "^0.4.5"
   }
 }
+// install grunt-copy-to
+// install grunt-bower
+// install node-bourbon
+// install grunt-sass
+//install and use grunt-sass uninstall grunt-contrib-sass for node-bourbon
